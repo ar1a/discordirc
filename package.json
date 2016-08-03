@@ -1,0 +1,15 @@
+{
+  "name": "discordrelayv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^1.13.4",
+    "irc": "^0.5.0"
+  }
+}
